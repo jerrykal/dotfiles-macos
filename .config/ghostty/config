@@ -1,18 +1,16 @@
 # Font
 font-family = "PragmataPro Liga"
-font-size = 16
+font-size = 18
 font-thicken = true
-
-adjust-cell-height = 20%
-adjust-cursor-thickness = 100%
+adjust-cell-height = 10%
 
 # Theme
 theme = Rose Pine
 
 # Window
 maximize = true
-window-padding-balance = true
 window-decoration = none
+window-padding-y = 0
 
 # Miscellaneous
 shell-integration-features = cursor,sudo,no-title,ssh-env,ssh-terminfo

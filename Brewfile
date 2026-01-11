@@ -1,4 +1,3 @@
-cask "aerospace"
 cask "alt-tab"
 cask "ghostty"
 cask "jordanbaird-ice@beta"
